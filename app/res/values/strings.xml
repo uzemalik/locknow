@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickLock</string>
+    <string name="activate_admin_explanation">QuickLock needs device administrator permission to lock the screen immediately.</string>
+</resources>
